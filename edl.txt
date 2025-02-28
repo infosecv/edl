@@ -1,3 +1,4 @@
+173.239.192.0/18 # Part of Hostile Network - Latitude.sh
 84.239.17.0/24 # Part of Hostile Network - Datacamp Limited
 87.249.132.0/22 # Part of Hostile Network - Datacamp Limited
 38.88.195.128/29 # Part of Hostile Network - Cogent Communications
