@@ -1,3 +1,14 @@
+216.73.163.0/24 # VPN - Internet Utilities Europe and Asia Limited sub Bandito Networks
+216.73.160.0/23 # VPN - Internet Utilities Europe and Asia Limited sub Bandito Networks
+209.87.169.0/24 # VPN - Clouvider sub Internet Utilities NA LLC
+193.56.116.0/24 # VPN - Clouvider sub VPN Consumer Atlanta, United States of America
+136.144.35.0/24 # VPN - Latitude.sh sub VPN Consumer New Jersey, United States of America
+91.193.232.0/24 # VPN - Clouvider sub Internet Utilities Europe and Asia Limited
+64.64.116.0/24 # VPN - Latitude.sh LTDA sub LogicWeb Inc
+45.146.55.0/24 # VPN - Clouvider sub VPN Consumer Atlanta, United States of America
+45.146.54.0/24 # VPN - Internet Utilities Europe and Asia Limited sub Panq B.V.
+45.131.195.0/24 # VPN - Clouvider sub VPN Consumer Secaucus, NJ, USA
+45.131.194.0/24 # VPN - Internet Utilities Europe and Asia Limited sub VPN-Consumer-US
 173.239.192.0/18 # Part of Hostile Network - Latitude.sh
 84.239.17.0/24 # Part of Hostile Network - Datacamp Limited
 87.249.132.0/22 # Part of Hostile Network - Datacamp Limited
