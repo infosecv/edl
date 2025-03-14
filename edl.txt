@@ -1,3 +1,4 @@
+38.180.0.0/16 # Hostile Network - AS174 - Cogent Communications sub 3NT SOLUTIONS LLP
 185.192.70.0/24 # VPN - AS42831 - UK Dedicated Servers Limited sub VPN Consumer London, United Kingdom
 136.144.19.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer Miami, United States
 92.119.36.0/24 # VPN - AS62240 - Clouvider sub Van Veen Beheer B.V.
