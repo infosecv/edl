@@ -1,11 +1,12 @@
-5.253.40.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Germany
+5.253.40.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Romania
 85.208.109.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Germany
 95.164.117.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Germany
 85.209.154.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Germany
-5.253.40.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Romania
 91.132.133.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - North Macedonia
 37.221.126.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Sweden
 94.131.122.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - United Kingdom
+45.131.193.0/24 # VPN - AS262287 - Latitude.sh LTDA sub VPN-Consumer-US
+185.223.152.0/24 # VPN - AS396356 - Latitude.sh sub Invermae Solutions SL
 38.180.0.0/16 # Hostile Network - AS174 - Cogent Communications sub 3NT SOLUTIONS LLP
 185.192.70.0/24 # VPN - AS42831 - UK Dedicated Servers Limited sub VPN Consumer London, United Kingdom
 136.144.19.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer Miami, United States
