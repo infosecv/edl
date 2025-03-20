@@ -1,3 +1,8 @@
+185.238.231.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited  sub Invermae Solutions SL 
+37.140.223.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited  sub Turkbil Sunucu Hizmetleri
+98.159.33.0/24 # Hostile Network - AS212238 - Datacamp Limited 
+104.234.225.0/24 # Hostile Network - AS62240 - Clouvider sub Internet Utilities NA LLC 
+142.111.152.0/24 # Hostile Network - AS212238 - Datacamp Limited sub Ace Data Centers II, L.L.C.
 5.253.40.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Romania
 85.208.109.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Germany
 95.164.117.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD - Germany
