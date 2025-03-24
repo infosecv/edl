@@ -1,3 +1,13 @@
+193.36.225.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer Los Angeles, United States 
+185.198.240.0/24 # VPN - AS62240 - Clouvider sub VPN Consumer New Jersey, United States of America 
+172.245.102.0/24 # VPN AS212238 - Datacamp Limited sub HostPapa
+155.2.215.0/24 # VPN - AS212238 - Datacamp Limited sub VPN Consumer Houston, TX, United States of America 
+136.144.33.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer Los Angeles, United States
+155.2.212.0/24 # VPN - AS212238 - Datacamp Limited sub VPN Consumer Denver, CO, USA
+104.234.227.0/24 # VPN - AS137409 - GSL Networks Pty LTD sub Internet Utilities NA LLC
+63.135.161.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited
+45.8.19.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited sub TnR Technologies B.V. 
+199.101.196.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited sub Internet Utilities NA LLC
 185.238.231.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited  sub Invermae Solutions SL 
 37.140.223.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited  sub Turkbil Sunucu Hizmetleri
 98.159.33.0/24 # Hostile Network - AS212238 - Datacamp Limited 
