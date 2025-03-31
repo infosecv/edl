@@ -1,3 +1,12 @@
+104.234.32.0/24 # Hostile Network AS206092 - Internet Utilities Europe and Asia Limited
+173.244.43.0/24 # Hostile Network AS137409 - GSL Networks Pty LTD
+181.215.65.0/24 # Hostile Network AS212238 - Datacamp Limited
+188.213.202.0/24 # Hostile Network AS137409 - GSL Networks Pty LTD
+23.94.155.0/24 # Hostile Network AS262287 - Latitude.sh LTDA
+45.92.229.0/24 # Hostile Network AS206092 - Internet Utilities Europe and Asia Limited
+85.208.108.0/24 # Hostile Network AS53363 - TANGRAM CANADA INC. sub STARK INDUSTRIES SOLUTIONS LTD.
+85.8.130.0/24 # Hostile Network AS206092 - Internet Utilities Europe and Asia Limited
+94.131.123.0/24 # Hostile Network AS44477 - STARK INDUSTRIES SOLUTIONS LTD
 188.213.202.0/24 # VPN - AS137409 - GSL Networks Pty LTD sub VPN Consumer Tampa, United States of America
 85.8.130.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer Seattle, United States of America 
 23.94.155.0/24 # VPN - AS262287 - Latitude.sh LTDA sub HostPapa
