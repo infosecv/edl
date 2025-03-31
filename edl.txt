@@ -1,3 +1,8 @@
+188.213.202.0/24 # VPN - AS137409 - GSL Networks Pty LTD sub VPN Consumer Tampa, United States of America
+85.8.130.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer Seattle, United States of America 
+23.94.155.0/24 # VPN - AS262287 - Latitude.sh LTDA sub HostPapa
+85.208.108.0/24 # VPN - AS53363 - TANGRAM CANADA INC sub STARK INDUSTRIES SOLUTIONS LTD. 
+94.131.123.0/24 # Hostile Network - AS44477 - STARK INDUSTRIES SOLUTIONS LTD
 193.36.225.0/24 # VPN - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer Los Angeles, United States 
 185.198.240.0/24 # VPN - AS62240 - Clouvider sub VPN Consumer New Jersey, United States of America 
 172.245.102.0/24 # VPN AS212238 - Datacamp Limited sub HostPapa
