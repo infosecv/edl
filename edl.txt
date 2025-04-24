@@ -1,3 +1,5 @@
+193.19.109.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer Seattle, United States of America
+88.214.48.0/24 # Hostile Network - AS213355 - HOST GLOBAL NETWORKS LTD
 193.37.33.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited sub Panq B.V.
 45.130.83.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer New York City, United States of America
 85.237.194.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited sub John Macleod trading as Howick Digital
