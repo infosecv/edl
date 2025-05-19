@@ -1,3 +1,35 @@
+23.230.223.0/24 # Hostile Network - AS26548 - PureVoltage Hosting Inc sub InterLIR GmbH
+45.133.112.0/22 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+45.145.128.0/23 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+45.147.8.0/22 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+45.147.232.0/22 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+64.49.36.0/22 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+85.239.56.0/22 # Hostile Network - AS14576 - Hosting Solution Ltd. sub TrafficTransitSolution LLC
+91.132.124.0/23 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+94.154.127.0/24 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub Quality Network US LLC 
+140.235.0.0/22 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub DirectBackup LLC 
+166.88.0.0/24 # Hostile Network - AS204957 - GREEN FLOID LLC sub STARK INDUSTRIES SOLUTIONS LTD 
+166.88.164.0/24 # Hostile Network - AS26383 - Baxet Group Inc sub Ace Data Centers II, L.L.C.
+166.88.225.0/24 # Hostile Network - AS214196 - Vladylsav Naumets sub Private Network
+166.88.197.0/24 # Hostile Network - AS26383 - Baxet Group Inc sub Ace Data Centers II, L.L.C.
+166.88.172.0/24 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub Ace Data Centers II, L.L.C.
+166.88.171.0/24 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub Ace Data Centers II, L.L.C.
+166.88.159.0/24 # Hostile Network - AS26383 - Baxet Group Inc sub Ace Data Centers II, L.L.C.
+166.88.142.0/24 # Hostile Network - AS399646 - Snaju Development
+166.88.132.0/24 # Hostile Network - AS149440 - Evoxt Enterprise sub Evoxt (DE)
+166.88.100.0/24 # Hostile Network - AS149440 - Evoxt Enterprise sub Evoxt
+166.88.55.0/24 # Hostile Network - AS149440 - Evoxt Enterprise sub Evoxt (HK)
+167.253.48.0/23 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub Mumara
+176.126.111.0/24 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+185.77.221.0/24 # Hostile Network - AS14576 - Hosting Solution Ltd. sub TrafficTransitSolution LLC 
+193.56.20.0/24 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+193.142.36.0/22 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+193.163.92.0/24 # Hostile Network - AS51765 - Oy Crea Nova Hosting Solution Ltd sub FINE GROUP SERVERS SOLUTIONS LLC
+193.233.210.0/23 # Hostile Network - AS14576 - Hosting Solution Ltd. sub TrafficTransitSolution LLC
+194.99.25.0/24 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+194.180.232.0/23 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+194.180.236.0/23 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub FINE GROUP SERVERS SOLUTIONS LLC
+199.96.164.0/22 # Hostile Network - AS26548 - PureVoltage Hosting Inc. sub MyridWeb LLC
 193.19.109.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited sub VPN Consumer Seattle, United States of America
 88.214.48.0/24 # Hostile Network - AS213355 - HOST GLOBAL NETWORKS LTD
 193.37.33.0/24 # Hostile Network - AS206092 - Internet Utilities Europe and Asia Limited sub Panq B.V.
