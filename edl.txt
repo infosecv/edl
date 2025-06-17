@@ -1,3 +1,5 @@
+212.18.104.0/24 # Hostile Network - AS215540 - GLOBAL CONNECTIVITY SOLUTIONS LLP
+178.130.47.0/24 # Hostile Network - AS215540 - GLOBAL CONNECTIVITY SOLUTIONS LLP
 109.94.218.0/24 # Hostile Network - Stark Industries/Fin7
 142.252.0.0/16 # Hostile Network - Stark Industries/Fin7
 166.0.0.0/15 # Hostile Network - Stark Industries/Fin7
